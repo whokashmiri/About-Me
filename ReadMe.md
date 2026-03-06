@@ -1,6 +1,14 @@
-# 💫 About Me:
-Hello! I’m Aaqib Bashir Mir, a Computer Science Engineering graduate with a passion for building innovative and impactful software solutions. Currently, I’m developing a hotel booking system using Spring Boot and React, which combines my interest in full-stack development with solving real-world problems.<br><br>I’m looking to collaborate on Spring Boot and MERN stack projects, as I believe teamwork is key to creating efficient and robust applications. On top of that, I’m diving into mobile app development with React Native, aiming to build user-friendly and engaging mobile applications.<br><br>Beyond coding, I have a deep interest in theology and enjoy exploring philosophical and spiritual ideas, which keeps me grounded and inspired.<br><br>Fun Fact: I once created a Gemini clone to sharpen my ReactJS skills—turns out, I enjoy replicating cool things just as much as creating my own!<br><br>Let’s connect and collaborate on exciting projects!
+Hello! I’m Aaqib Bashir Mir, a Computer Science Engineering graduate with a passion for building innovative and impactful software solutions. Currently, I’m developing a hotel booking system using Spring Boot and React, which combines my interest in full-stack development with solving real-world problems.
 
+I’m looking to collaborate on Spring Boot and MERN stack projects, as I believe teamwork is key to creating efficient and robust applications. On top of that, I’m diving into mobile app development with React Native, aiming to build user-friendly and engaging mobile applications.
+
+I’m also expanding my skill set into the Salesforce ecosystem—learning Salesforce development and administration to understand CRM solutions, automation, and cloud-based business processes. This adds a powerful dimension to my technical toolkit and opens doors to building scalable enterprise applications.
+
+Beyond coding, I have a deep interest in theology and enjoy exploring philosophical and spiritual ideas, which keeps me grounded and inspired.
+
+Fun Fact: I once created a Gemini clone to sharpen my ReactJS skills—turns out, I enjoy replicating cool things just as much as creating my own!
+
+Let’s connect and collaborate on exciting projects!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/whokashmiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whokashmiri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/whokashmiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whokashmiri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whokashmiri) 
